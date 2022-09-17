@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Digital-Card-App/static/css/main.f8457c75.css",
+    "main.js": "/Digital-Card-App/static/js/main.828bcb89.js",
+    "static/media/dev.jpg": "/Digital-Card-App/static/media/dev.00aeeab3cd2ef8d4d557.jpg",
+    "static/media/twitter.svg": "/Digital-Card-App/static/media/twitter.bba10fe60b63556b1c67db0566f8dd86.svg",
+    "static/media/github.svg": "/Digital-Card-App/static/media/github.895050b20cdc3aefa3177ef8508b789b.svg",
+    "static/media/linkedin.svg": "/Digital-Card-App/static/media/linkedin.64c918fa29779908cb31447122ad5e56.svg",
+    "static/media/instagram.svg": "/Digital-Card-App/static/media/instagram.210cf76bc5cf8c563cfa8b62bbbb406d.svg",
+    "static/media/mail.svg": "/Digital-Card-App/static/media/mail.f83bb82f632f567cc70fc5dbfc82473d.svg",
+    "index.html": "/Digital-Card-App/index.html",
+    "main.f8457c75.css.map": "/Digital-Card-App/static/css/main.f8457c75.css.map",
+    "main.828bcb89.js.map": "/Digital-Card-App/static/js/main.828bcb89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8457c75.css",
+    "static/js/main.828bcb89.js"
+  ]
+}
